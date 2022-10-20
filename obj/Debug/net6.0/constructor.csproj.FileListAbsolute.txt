@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\bin\Debug\net6.0\constructor.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\bin\Debug\net6.0\constructor.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\bin\Debug\net6.0\constructor.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\bin\Debug\net6.0\constructor.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\bin\Debug\net6.0\constructor.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\refint\constructor.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\constructor.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\constructor\obj\Debug\net6.0\ref\constructor.dll
